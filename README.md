@@ -67,7 +67,7 @@ The objective of this project is to uncover patterns in energy usage, compare re
 
 ## 📷 Dashboard Preview
 
-![Energy Dashboard](dashboard_preview.png)
+![Energy Dashboard](Energy.png)
 
 ---
 
