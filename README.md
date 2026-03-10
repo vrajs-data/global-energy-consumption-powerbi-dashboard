@@ -1,0 +1,1 @@
+# global-energy-consumption-powerbi-dashboard
